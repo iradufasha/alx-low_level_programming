@@ -9,6 +9,7 @@
 
 /* betty style doc for function main goes there */
 /**
+ 
 * main - no thing else 
 * Description: 'positive checker'
 * Return: Always zero (Success)
@@ -36,6 +37,7 @@ int main(void)
 	{
 		printf(" is zero\n");
 	}
+
 	else 
 	{
 		printf(" is negative\n");
