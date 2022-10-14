@@ -9,9 +9,9 @@
 
 /* betty style doc for function main goes there */
 /**
- * main - just main
+ * main - just friday
  * Description: 'this main is on roll'
- * Return: Always 0 (Success)
+ * Return: Always Zero (Success)
 */
 
 int main(void)
