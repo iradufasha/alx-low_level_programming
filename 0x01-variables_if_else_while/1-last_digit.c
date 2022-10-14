@@ -11,7 +11,7 @@
 /**
  * main - just main
  * Description : this main is on roll
- * Return : Zero
+ * Return : Always Zero (succes)
 */
 int main(void)
 
