@@ -11,6 +11,7 @@
 /**
  * main - just main
  * Description : this main is on roll
+ * Return : Zero
 */
 int main(void)
 
@@ -27,7 +28,7 @@ int main(void)
 	/* your code goes there */
 	printf("Last digit of %d", n);
 	mod = n % 10;
-	printf("is %d", mod);
+	printf(" is %d", mod);
 	if (mod > 5)
 	{
 		printf(" and is greater than 5\n");
