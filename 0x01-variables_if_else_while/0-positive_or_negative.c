@@ -9,18 +9,10 @@
 
 /* betty style doc for function main goes there */
 /**
- *
- * main - Entry point
- *
- * 
- *
- * Description: 'positive checker'
- *
- * 
- *
- * Return: Always 0 (Success)
-
- */
+* main - no thing else 
+* Description: 'positive checker'
+* Return: Always zero (Success)
+*/
 
 int main(void)
 
