@@ -10,7 +10,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - just main
- * Description : this main is on roll
+ * Description : 'this main is on roll'
  * Return : Always Zero (succes)
 */
 int main(void)
