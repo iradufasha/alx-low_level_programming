@@ -3,14 +3,10 @@
 
 
 /**
-
  * main - Prints the alphabet in lowercase, except for q and e.
-
- *
-
+ * Description: 'description goes here'
  * Return: Always 0.
-
- */
+*/
 
 int main(void)
 
