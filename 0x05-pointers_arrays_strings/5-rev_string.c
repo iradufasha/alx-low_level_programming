@@ -15,7 +15,7 @@ void rev_string(char s[]) /* interpreted as void rev_string(char *s) */
 
 {
 
-	int i = 0, j = 0;
+	int y, int i = 0, j = 0;
 
 	char str[500];
 
@@ -29,7 +29,7 @@ void rev_string(char s[]) /* interpreted as void rev_string(char *s) */
 
 	}
 
-	int y = i - 1;
+	y = i - 1;
 
 	while (y >= 0)
 
