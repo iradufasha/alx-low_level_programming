@@ -1,3 +1,5 @@
+#include "main.h"
+
 /**
  * _puts - like puts
  * @str: simple parameter
