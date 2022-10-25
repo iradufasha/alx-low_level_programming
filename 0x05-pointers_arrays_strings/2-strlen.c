@@ -15,7 +15,7 @@ int _strlen(char *str)
 
 	{
 
-		sum + = 1;
+		sum = sum + 1;
 
 		i++;
 
