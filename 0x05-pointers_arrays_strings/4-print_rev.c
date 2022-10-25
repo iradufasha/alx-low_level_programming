@@ -3,15 +3,10 @@
 
 
 /**
-
  * print_rev - prints a string in stdout in reverse
-
  * @s: string to print
-
- *
-
+ * Description: go
  * Return: void
-
  */
 
 void print_rev(char *s)
