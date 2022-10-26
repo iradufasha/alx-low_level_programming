@@ -32,7 +32,7 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 
 
 
-	while (*(str + i))
+	while (*(str + i) != '\n')
 
 	{
 
