@@ -32,7 +32,7 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 
 
 
-	while (*(str + i) != '\0')
+	for (; str[i] != '\0'; i++)
 
 	{
 
