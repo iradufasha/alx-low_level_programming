@@ -36,7 +36,7 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 
 	{
 
-		if (*(str + i) % 2 == 0)
+		if (i % 2 == 0)
 
 		{
 
