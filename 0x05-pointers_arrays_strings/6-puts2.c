@@ -32,7 +32,7 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 
 
 
-	while (*(str + i) != '\n')
+	while (*(str + i) != '\0')
 
 	{
 
@@ -45,6 +45,10 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 		}
 
 
+		else
+		{
+			continue;
+		}
 
 		i++;
 
