@@ -40,7 +40,7 @@ void puts2(char *str) /* also same as void puts2(char str[]) */
 
 		{
 
-			_putchar("%c", *(str + i));
+			_putchar(*(str + i));
 
 		}
 
